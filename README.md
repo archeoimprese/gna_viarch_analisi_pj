@@ -21,4 +21,6 @@ Archeoimprese creerà delle domande da inviare all'ICA quando riterrà opportuna
 
 E come sempre prima di scrivere RTFM a tutti!
 
-Archeoimprese, Uniti si cresce.
+#archeosoluzioni
+
+NB: il respository è uno strumento creato in base ad una iniziativa di Archeoimprese e non ha alcun carattere ufficiale.
